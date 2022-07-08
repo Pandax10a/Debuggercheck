@@ -26,3 +26,7 @@ console.log(`${result2}`);
 let usernames = [`alpha`, `beta`, `gamma`, `epsilon`, `omega`];
 let user_ages = [5, 77, 339, 9502, 32020];
 
+let first_user_name = usernames[0];
+let last_user_names = usernames[4];
+let middle_user_age = user_ages[2];
+
