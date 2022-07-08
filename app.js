@@ -23,3 +23,6 @@ console.log(`You are: ${user_age} years of age`);
 console.log(`${result}`);
 console.log(`${result2}`);
 
+let usernames = [`alpha`, `beta`, `gamma`, `epsilon`, `omega`];
+let user_ages = [5, 77, 339, 9502, 32020];
+
