@@ -1,6 +1,8 @@
 let username = "alphaomega";
 let user_age = 31;
 let is_member = true;
+let max_volume = 100;
+let current_volume = 22;
 
 if (username === "admin") {
     console.log("Greetings Admin!!");
@@ -12,3 +14,7 @@ if (username === "admin") {
 
 console.log(`Hello ${username}`);
 console.log(`You are: ${user_age} years of age`);
+
+console.log(`${max_volume}/${current_volume}`);
+console.log(`(${max_volume}/${current_volume})*100`);
+
