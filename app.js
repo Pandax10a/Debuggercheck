@@ -1,5 +1,5 @@
 let username = "alphaomega";
-let user_age = 22;
+let user_age = 31;
 let is_member = true;
 
 if (username === "admin") {
@@ -9,3 +9,6 @@ if (username === "admin") {
 } else {
     console.log("I'm going to put myself in suspend mode now");
 }
+
+console.log(`Hello ${username}`);
+console.log(`You are: ${user_age} years of age`);
